@@ -11,7 +11,7 @@ The template comes with **6 colour schemes**. The source SCSS files are included
 **Want to have a printable version?**
 We’ve released a [free Sketch template](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/) for this theme. [Download Now](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/)
 
-<a href="https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/12/orbit-theme-sketch-template-promo.png" alt="Sketch Resume Template for Developers. Si lo lees, hola" /></a>
+<a href="https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/12/orbit-theme-sketch-template-promo.png" alt="Sketch Resume Template for Developers. Si lo lees, hola como andas" /></a>
 
 
 ## Author & License
